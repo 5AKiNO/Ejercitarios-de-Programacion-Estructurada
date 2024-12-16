@@ -1,3 +1,15 @@
+/*
+
+Crea un programa que tome como entrada las calificaciones de un estudiante y determine su estado:
+
+- Si la calificación es mayor o igual a 90, imprime "Excelente"
+- Si está entre 70 y 89, imprime "Aprobado"
+- Si es menor a 70, imprime "Reprobado"
+
+Incluye validaciones para que solo se acepten valores entre 0 y 100
+
+ */
+
 #include <iostream>
 using namespace std;
 

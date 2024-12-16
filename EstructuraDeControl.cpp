@@ -1,3 +1,13 @@
+/*
+
+Escribe un programa que calcule el promedio de un conjunto de números ingresados por el usuario
+
+- El programa debe pedir números repetidamente hasta que el usuario introduzca `0`
+- Ignora números negativos (no sumes ni cuentes)
+- Muestra el promedio de los números válidos al finalizar
+
+*/
+
 #include <iostream>
 using namespace std;
 
